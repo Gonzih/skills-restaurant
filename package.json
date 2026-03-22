@@ -1,0 +1,28 @@
+{
+  "name": "@gonzih/skills-restaurant",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Claude Code skill suite for restaurant owners, managers, and chefs",
+  "main": "install.js",
+  "bin": {
+    "skills-restaurant": "install.js"
+  },
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skills",
+    "restaurant",
+    "menu",
+    "catering",
+    "hospitality"
+  ],
+  "author": "gonzih",
+  "license": "MIT",
+  "files": [
+    "install.js",
+    "skills/"
+  ]
+}
