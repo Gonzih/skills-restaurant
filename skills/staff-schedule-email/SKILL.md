@@ -28,3 +28,8 @@ Close with clear instructions for requesting shift swaps (deadline, who to conta
 
 ## Example outputs
 A plain-text email with a day-by-day schedule table, a bulleted reminders section, and a short swap-policy paragraph — ready to paste into any email client or messaging app.
+
+## Live Data Sources
+- **DOL labor law requirements by state** — Department of Labor state-level wage and hour rules (dol.gov API)
+- **Minimum wage database (DOL FLSA)** — current federal and state minimum wage rates from the Fair Labor Standards Act database
+- **Tip credit rules by jurisdiction** — state-by-state tip credit and tip pooling regulations from DOL Wage and Hour Division

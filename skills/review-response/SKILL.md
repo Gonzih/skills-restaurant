@@ -29,3 +29,8 @@ Close every response — positive or negative — with a warm, specific invitati
 
 ## Example outputs
 A 3–5 sentence response that reads warm and professional, mirrors the guest's specific experience, and fits within the character limits of major review platforms.
+
+## Live Data Sources
+- **FDA Food Code** — federal food safety standards and retail food protection guidelines (fda.gov/food/retail-food-protection)
+- **Local health department inspection databases** — publicly available restaurant inspection records from municipal and county health departments
+- **ServSafe guidelines** — National Restaurant Association Educational Foundation food handler safety and sanitation standards

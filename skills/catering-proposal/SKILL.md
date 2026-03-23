@@ -28,3 +28,8 @@ Outline the event-day timeline (arrival, service start, last call, teardown). In
 
 ## Example outputs
 A structured proposal document with labeled sections, a pricing table by package tier, and a signature block for client approval.
+
+## Live Data Sources
+- **USDA Agricultural Marketing Service price reports** — wholesale commodity and produce pricing (ams.usda.gov)
+- **Commodity futures prices (CFTC public data)** — Commodity Futures Trading Commission public market data for food commodity cost forecasting
+- **Food distributor benchmark pricing** — industry benchmark data for food service distributor margins and typical cost-per-unit ranges
