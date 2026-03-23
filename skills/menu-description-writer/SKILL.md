@@ -25,3 +25,9 @@ Close with a subtle portion signal ("serves two," "small plate") or pairing sugg
 
 ## Example outputs
 "Slow-braised short rib, fork-tender after eight hours in a red-wine jus, arrives atop truffle-whipped Yukon Golds with a tangle of crispy shallots. Rich, deeply savory, and satisfying — best shared, but rarely is."
+
+## Live Data Sources
+- **USDA FoodData Central** — nutritional data and ingredient composition (fdc.nal.usda.gov)
+- **NRA food cost percentage benchmarks** — National Restaurant Association research on food cost ratios by cuisine type
+- **Seasonal availability calendars** — regional produce seasonality data to highlight in-season ingredients
+- **OpenMenu API patterns** — structured menu data patterns and item taxonomy for consistent formatting
